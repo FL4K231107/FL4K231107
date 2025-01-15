@@ -11,9 +11,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](htt
 ### Github Statistic
 <p align="center">
   <a href="https://github.com/FL4K231107">
-    <img height="150em" src="https://github-readme
-    stats.vercel.app/apiusername=FL4K231107&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FL4K231107&layout=compact&theme=algolia"/>
+    <img height="150em" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=FL4K231107&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150em" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FL4K231107&layout=compact&theme=algolia"/>
   </a>
 </p>
 
